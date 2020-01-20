@@ -29,3 +29,11 @@ The expectancy, the correctly work on Share Extension that is enabled to `askFor
 <img width="280" alt="screenshot 560" src="https://user-images.githubusercontent.com/22558921/72701222-ee263700-3b91-11ea-839d-f28d773bc068.png">
 <img width="1920" alt="screenshot 554" src="https://user-images.githubusercontent.com/22558921/72701229-eebecd80-3b91-11ea-95ab-1f2a99e05967.png">
 <img width="1512" alt="screenshot 562" src="https://user-images.githubusercontent.com/22558921/72701220-ed8da080-3b91-11ea-95f6-ff0a2a7a738b.png">
+
+## Solution
+
+Replace on `Mintfile` to own fixed branch and reinstalled, the project work correctly.
+
+```
+yutomizutani/xcodegen@add-ask-on-launch-with-specified-own-package
+```
